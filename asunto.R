@@ -3,4 +3,4 @@ x
 y <- rnorm(1:240)
 y
 xy <- merge(x,y)
-xy
+xy 
