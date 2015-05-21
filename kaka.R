@@ -9,4 +9,5 @@ y
 xy <- merge(x,y,by="id")
 print(xy)
 xy2 <- merge(x, y, by = intersect(names(x), names(y)))
-xy2
+xy2 
+d
